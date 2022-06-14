@@ -1,5 +1,6 @@
-# pepepalsbtc.github.io
-A series of Pepe and his pals in NFT form by community artists
-https://pepepalsbtc.github.io/
+# NoDipForPepe.github.io
+https://nodipforpepe.github.io/
+A Collection Series of Pepe and Pepe Items by community artist BitcoinJake09
+Co-Founder of https://pepepalsbtc.github.io/
 
-This project is open source to the extent that you may use this project as a template for your own, but you do not own the assets associated.
+This project is open source to the extent that you may use/fork this project as a template for your own, but you do not own the assets associated with counterparty ;)
